@@ -1,5 +1,5 @@
-## Duplicate and Unique File Organizer for Emoji Collections
-# Script para verificar archivos locales duplicados
+# Duplicate and Unique File Organizer for Emoji Collections
+Script para verificar archivos locales duplicados
 
 This Python script helps organize emoji image collections by identifying duplicate and unique files. It performs the following tasks:
 
